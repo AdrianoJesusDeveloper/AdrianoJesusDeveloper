@@ -7,6 +7,7 @@
 </div>
 ## Minhas Tecnologias 
 <div style="display": inline_block>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
 
 </div>
