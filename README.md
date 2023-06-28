@@ -5,4 +5,8 @@
   
   </p>
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+## Minhas Tecnologias 
+<div style="display": inline_block>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+
+</div>
