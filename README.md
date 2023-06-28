@@ -5,6 +5,16 @@
   
   </p>
 </div>
-## Minhas Tecnologias 
-<div style="display": inline_block>  
+ Minhas Tecnologias 
+<div>
+  <img alig="center" alt="HTML5" height="50" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img alig="center" alt="CSS" height="50" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img alig="center" alt="JAVASCRIPT" height="42.5" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alig="center" alt="BOOTSTRAP" height="42.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alig="center" alt="Wordpress" height="42" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+  
+   
+  
+          
 </div>
+  
