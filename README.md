@@ -1,23 +1,61 @@
-### Sejam bem vindos 👋
+## 👋 Olá, seja bem-vindo(a)!
 
-<div> 
-  <p>Sou Bacharel em Sistemas de Informação pela Universidade Estacio de Sá, estudante de Ciencias de Dados pela Universidade Estacio de Sá. Sou apaixonado por tecnologias inovadoras para o desenvolvimento de aplicações Web e Android e recentemente também me apaixonei pela ciência dos dados, ferarramentas de Business Inteligence e Machine Learning.
-  
-  </p>
-</div>
- Minhas Tecnologias 
-<div>
-  <img alig="center" alt="HTML5" height="50" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img alig="center" alt="CSS" height="50" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img alig="center" alt="JAVASCRIPT" height="42.5" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alig="center" alt="BOOTSTRAP" height="42.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-  <img alig="center" alt="React" height="42" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>  
-  <img alig="center" alt="Python" height="40" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img alig="center" alt="Firebase" height="45" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>         
-</div>
+🎓 **Tecnólogo em Ciência de Dados** e **Bacharel em Sistemas de Informação** pela Universidade Estácio de Sá  
+📚 **Pós-graduação em Big Data e Inteligência Competitiva (em andamento)**
 
-<div  align="center">
-  <a href="https://github.com/AdrianoJesusDesenvolvedor">
-   <img height"170em" src"https//github-readme-stars.vercel.app/api?username=AdrianoJesusDesenvolvedor&show_icons=true&theme=dark&iclude-all_commits=true&count_private=true"/>
-</div>
-  
+Sou estudante com foco em **Análise de Dados**, **Automação com Python** e **Business Intelligence**, interessado em transformar dados brutos em **insights para apoio à tomada de decisão**.
+
+Como diferencial, possuo conhecimentos em **Computação em Nuvem (AWS)**, aplicados ao suporte de aplicações e projetos de dados, como automação, organização de pipelines simples e visualização de informações.
+
+Minha experiência anterior em **suporte técnico, sistemas corporativos e desenvolvimento web** contribuiu para uma visão analítica, organizada e orientada a negócio.
+
+🎯 **Objetivo:** Estágio em Ciência de Dados / Data Analytics  
+📜 **Certificação:** AWS Certified Cloud Practitioner  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 📊 Dados & Analytics (Foco principal)
+<p>
+  <img align="center" alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt="Pandas" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
+  <img align="center" alt="R" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+  <img align="center" alt="SQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Power BI" height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+</p>
+
+### 📈 Visualização & Dashboards
+<p>
+  <img align="center" alt="Streamlit" height="40" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"/>
+  <img align="center" alt="Plotly" height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"/>
+</p>
+
+### ☁️ Cloud (Diferencial)
+<p>
+  <img align="center" alt="AWS" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" alt="Flask" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **Dashboard de Gestão de Ponto Eletrônico**  
+Projeto acadêmico focado na automação do processamento de dados de ponto eletrônico, geração de indicadores e visualização interativa de informações.
+
+**Tecnologias:** Python · Pandas · Regex · Plotly · Streamlit  
+🔗 Repositório:  
+👉 https://github.com/AdrianoJesusDeveloper/Topicos_de_Bigdata_com_python
+
+🔹 **Projetos Acadêmicos de Análise de Dados**  
+Projetos envolvendo análise exploratória, visualização e geração de insights a partir de dados acadêmicos e simulados.
+
+🔹 **Estudos Práticos em Cloud (AWS)**  
+Aplicações simples e automações voltadas ao suporte de projetos de dados.
+
+---
+
+## 📫 Contato
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/adriano-jesus-costa/
