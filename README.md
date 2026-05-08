@@ -9,7 +9,7 @@ Como diferencial, possuo conhecimentos em **Computação em Nuvem (AWS)**, aplic
 
 Minha experiência anterior em **suporte técnico, sistemas corporativos e desenvolvimento web** contribuiu para uma visão analítica, organizada e orientada a negócio.
 
-🎯 **Objetivo:** Estágio em Ciência de Dados / Data Analytics  
+🎯 **🎯 Objetivo: ** Analista de Dados Júnior | BI & Analytics | Cloud & Automação 
 📜 **Certificação:** AWS Certified Cloud Practitioner  
 
 ---
