@@ -1,7 +1,7 @@
 ## 👋 Olá, seja bem-vindo(a)!
 
 🎓 **Tecnólogo em Ciência de Dados** e **Bacharel em Sistemas de Informação** pela Universidade Estácio de Sá  
-📚 **Pós-graduação em Big Data e Inteligência Competitiva (em andamento)**
+📚 **Pós-graduação em Big Data e Inteligência Competitiva **
 
 Sou estudante com foco em **Análise de Dados**, **Automação com Python** e **Business Intelligence**, interessado em transformar dados brutos em **insights para apoio à tomada de decisão**.
 
