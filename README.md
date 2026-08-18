@@ -2,174 +2,246 @@
 
 # 👋 Olá, eu sou Adriano Costa
 
-### **Data & Analytics | Python • SQL • BI • AWS**
+### **Data & Analytics · Engineering · AI · Full Stack · Cloud**
 
-Transformo dados em **insights, automações e soluções orientadas à decisão**.
+**Transformo dados em inteligência e inteligência em soluções.**
+
+<br>
+
+[![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+[![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=44B78B)](https://www.djangoproject.com/)
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-AdrianoJesusDeveloper-181717?style=for-the-badge&logo=github)](https://github.com/AdrianoJesusDeveloper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriano%20Jesus%20Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-jesus-costa/)
-[![Python](https://img.shields.io/badge/Python-Data%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 </div>
 
 ---
 
-## 🎯 Sobre mim
+## 🧭 Perfil profissional
 
-Sou profissional de tecnologia com formação em **Ciência de Dados** e **Sistemas de Informação**, além de pós-graduação em **Big Data e Inteligência Competitiva**.
+Sou profissional de tecnologia com formação em **Sistemas de Informação**, **Ciência de Dados** e especialização em **Big Data & Inteligência Competitiva**.
 
-Meu foco é conectar **dados, negócio e tecnologia**: preparar e analisar dados, construir indicadores, desenvolver dashboards, automatizar processos e explorar soluções em Cloud e IA.
+Construo uma trajetória multidisciplinar conectando **dados, engenharia, software, inteligência artificial e cloud** — sempre com foco em transformar conhecimento técnico em soluções práticas e valor para o negócio.
 
-### Minha direção profissional
-
-- 📊 **Data Analytics & Business Intelligence**
-- 🐍 **Python para dados e automação**
-- 🗄️ **SQL e bancos de dados**
-- ☁️ **AWS & Cloud Computing**
-- 📈 **Dashboards e Data Visualization**
-- 🤖 **IA aplicada e automação**
-
-> **Objetivo:** construir soluções de dados que transformem informação em eficiência, conhecimento e melhores decisões.
+> **Dados → Engenharia → Inteligência → Software → Cloud → Decisão**
 
 ---
 
-## 🧭 Minha visão
+## 🚀 Áreas de atuação
 
-```text
-                    DADOS
-                      │
-          ┌───────────┴───────────┐
-          ▼                       ▼
-      ANALYTICS               AUTOMAÇÃO
-          │                       │
-          └───────────┬───────────┘
-                      ▼
-                 INTELIGÊNCIA
-                      │
-          ┌───────────┴───────────┐
-          ▼                       ▼
-        CLOUD                    IA
-          │                       │
-          └───────────┬───────────┘
-                      ▼
-                DECISÃO & VALOR
-```
-
-Estou construindo uma trajetória que parte de **Data Analytics** e evolui para soluções integradas de **Data + Cloud + AI**.
-
----
-
-## 🛠️ Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Data & Analytics
 
-**Python · Pandas · NumPy · SQL · Power BI · Excel · ETL · EDA · Data Visualization**
+**Data Analytics · Business Intelligence · Data Science**
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="45" />
-</p>
+Análise, exploração e interpretação de dados para gerar **insights e apoiar decisões**.
 
-### 📈 Dashboards & Desenvolvimento
+</td>
+<td width="50%" valign="top">
 
-**Streamlit · Plotly · Dash · Django · React · APIs REST · PostgreSQL**
+### 🧱 Data Engineering
 
-### ☁️ Cloud & Ferramentas
+**ETL · Pipelines · SQL · Python · Data Platforms**
 
-**AWS · Git · GitHub**
+Construção e preparação de fluxos de dados confiáveis, organizados e escaláveis.
 
-### 🤖 IA & Automação
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Python · APIs de IA · Agentes · Automação de processos · Integrações**
+### 🤖 AI Engineering
+
+**IA · Machine Learning · LLMs · AI Applications · Automação**
+
+Aplicação de IA em produtos, automações e soluções orientadas a problemas reais.
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Full Stack Development
+
+**Python · Django · React · JavaScript · APIs REST**
+
+Desenvolvimento de aplicações conectando **frontend, backend, APIs, bancos e dados**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Solutions Architecture
+
+**AWS · Cloud Computing · Arquitetura de Soluções**
+
+Construção de fundamentos para sistemas **seguros, resilientes, escaláveis e orientados a serviços**.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Dashboards & Decision Intelligence
+
+**Power BI · Streamlit · Plotly · Data Visualization**
+
+Transformação de dados complexos em **KPIs, dashboards e narrativas executivas**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🛠️ Stack em construção
+
+| Área | Principais tecnologias |
+|---|---|
+| **Dados** | Python · SQL · Pandas · NumPy · PostgreSQL · MySQL |
+| **Analytics & BI** | Power BI · Streamlit · Plotly · Excel · ETL · EDA |
+| **Engenharia** | Python · Django · APIs REST · Git · GitHub |
+| **Frontend** | React · JavaScript · Vite · Tailwind |
+| **Cloud** | AWS · Cloud Computing · Serverless · Arquitetura |
+| **IA** | Machine Learning · LLMs · APIs de IA · Agentes · Automação |
+
+---
+
+## ⭐ Projetos em destaque
 
 ### 📊 Dashboard DRE — SG Global Group
 
-**Data Analytics · Financial Analytics · ETL · Streamlit · Plotly**
+**Financial Analytics · ETL · Python · Pandas · Streamlit · Plotly**
 
-Dashboard executivo para análise da **Demonstração do Resultado do Exercício (DRE)** e fluxo de caixa, com operações **Brasil** e **EUA**.
+Dashboard executivo para análise de **DRE e Fluxo de Caixa**, com operações **Brasil** e **EUA**.
 
-**Destaques:** ETL · KPIs financeiros · margens · fluxo de caixa · Data Quality · visualização executiva · tomada de decisão.
+`Dados → ETL → KPIs → Visualização → Decisão`
 
-🔗 **[Ver projeto](https://github.com/AdrianoJesusDeveloper/Dashboard_de_DRE_SG-Global_Group_DNC)**
+🔗 **[Explorar projeto](https://github.com/AdrianoJesusDeveloper/Dashboard_de_DRE_SG-Global_Group_DNC)**
 
 ---
 
 ### 🥋 Data Driven Dojô
 
-**Data · Python · Educação · IA · Tecnologia**
+**Data Science · Python · Educação · Engenharia · IA**
 
-Projeto autoral que une aprendizado contínuo, construção de projetos e compartilhamento de conhecimento. A filosofia dos **3Ds — Determinação, Disciplina e Dedicação** orienta a jornada.
+Projeto autoral baseado em **Determinação, Disciplina e Dedicação**, transformando aprendizado contínuo em projetos, conhecimento compartilhado e evolução profissional.
 
-🔗 **[Conhecer o projeto](https://github.com/AdrianoJesusDeveloper/data-dojo)**
+🔗 **[Explorar projeto](https://github.com/AdrianoJesusDeveloper/data-dojo)**
 
 ---
 
 ### ☁️ Automação de instâncias AWS
 
-**Python · AWS · Automação · Cloud**
+**Python · AWS · Cloud · Automação**
 
-Projeto prático de automação de tarefas relacionadas ao ciclo de vida de instâncias AWS.
+Projeto prático de automação de tarefas relacionadas ao ciclo de vida de recursos AWS.
 
-🔗 **[Ver projeto](https://github.com/AdrianoJesusDeveloper/automatizacao-termino-instancias-aws)**
+🔗 **[Explorar projeto](https://github.com/AdrianoJesusDeveloper/automatizacao-termino-instancias-aws)**
 
 ---
 
 ### 🤖 DataDrivenDojoAI
 
-Projeto experimental voltado à aplicação de **inteligência artificial** no ecossistema Data Driven Dojô.
+**AI · Automação · Aplicações inteligentes**
 
-🔗 **[Ver projeto](https://github.com/AdrianoJesusDeveloper/DataDrivenDojoAI)**
+Laboratório experimental para aplicação de inteligência artificial no ecossistema Data Driven Dojô.
+
+🔗 **[Explorar projeto](https://github.com/AdrianoJesusDeveloper/DataDrivenDojoAI)**
+
+---
+
+## 🧠 Como penso tecnologia
+
+```text
+                         PROBLEMA
+                            │
+                            ▼
+                          DADOS
+                            │
+              ┌─────────────┴─────────────┐
+              ▼                           ▼
+         ANALYTICS                  ENGINEERING
+              │                           │
+              └─────────────┬─────────────┘
+                            ▼
+                       INTELIGÊNCIA
+                            │
+              ┌─────────────┴─────────────┐
+              ▼                           ▼
+          SOFTWARE                       IA
+              │                           │
+              └─────────────┬─────────────┘
+                            ▼
+                           CLOUD
+                            │
+                            ▼
+                         SOLUÇÃO
+                            │
+                            ▼
+                         DECISÃO
+```
+
+Meu objetivo é desenvolver **profundidade nos fundamentos** e capacidade de conectar diferentes disciplinas para construir soluções completas.
+
+**Python** como principal ferramenta de dados e engenharia · **SQL** como fundamento para dados · **Cloud** como infraestrutura · **IA** como camada de inteligência · **Full Stack** como capacidade de transformar ideias em produtos.
+
+---
+
+## 🎯 Evolução contínua
+
+### Foco atual
+
+- 📊 **Data Science & Analytics**
+- 🧱 **Data Engineering**
+- 🤖 **AI Engineering**
+- 💻 **Full Stack Development**
+- ☁️ **AWS & Cloud Architecture**
+- 🗄️ **SQL & Engenharia de Dados**
+- ⚙️ **Automação com Python**
+
+> **Kaizen:** aprender → construir → medir → melhorar → ensinar.
 
 ---
 
 ## 🎓 Formação & certificação
 
-- 🎓 **Tecnólogo em Ciência de Dados**
 - 🎓 **Bacharel em Sistemas de Informação**
-- 🎓 **Pós-graduação em Big Data e Inteligência Competitiva**
+- 🎓 **Tecnólogo em Ciência de Dados**
+- 🎓 **Pós-graduação em Big Data & Inteligência Competitiva**
 - ☁️ **AWS Certified Cloud Practitioner**
 
 ---
 
-## 🧠 Princípio de evolução
+## 📌 O que você encontrará aqui
 
-> **Aprender → Construir → Medir → Melhorar → Ensinar**
+Projetos que demonstram a evolução de uma ideia até uma solução:
 
-Não quero apenas acumular tecnologias. Quero transformar conhecimento em **projetos reais, portfólio e valor para negócios**.
+**Dados → Código → Engenharia → Analytics → IA → Cloud → Produto**
 
-Cada projeto é uma oportunidade de desenvolver:
-
-**fundamentos + código + dados + arquitetura + comunicação + visão de negócio.**
+Meu GitHub é um laboratório público de aprendizado, construção e experimentação — com foco em projetos que possam demonstrar **competência técnica, pensamento analítico e visão de negócio**.
 
 ---
-
-## 📌 Em construção
-
-- 📊 Data Analytics & BI
-- 🐍 Python
-- 🗄️ SQL & bancos de dados
-- ☁️ AWS & Cloud
-- 🤖 IA & automação
-- 🥋 Ecossistema Data Driven Dojô
-
----
-
-## 📬 Vamos conectar?
-
-Se você trabalha com **dados, tecnologia, automação, Cloud ou IA**, será um prazer trocar conhecimento e construir conexões.
 
 <div align="center">
 
-### **Dados → Inteligência → Ação**
+## 🤝 Vamos construir algo?
+
+**Data · Engineering · AI · Software · Cloud**
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-jesus-costa/)
 [![GitHub](https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoJesusDeveloper)
+
+<br><br>
+
+**Construindo soluções. Evoluindo todos os dias. 🥋**
 
 </div>
